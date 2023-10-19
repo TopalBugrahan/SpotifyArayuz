@@ -1,4 +1,4 @@
-# SpotifyArayuz
+# SpotifyArayuz KARDESIM BURAK BU ISLERI
 ![Ekran Görüntüsü (77)](https://user-images.githubusercontent.com/76047788/130352638-c686d38d-b20c-429b-ab55-5ebc69c2c763.png)
 ![Ekran Görüntüsü (78)](https://user-images.githubusercontent.com/76047788/130352648-31ff9d26-d930-4895-a026-adf6890b77b2.png)
 ![Ekran Görüntüsü (79)](https://user-images.githubusercontent.com/76047788/130352657-6cb7f9fa-7ecf-4d2d-b383-004a1330da78.png)
